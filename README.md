@@ -16,3 +16,11 @@ This folder contains my deep learning projects using PyTorch, covering various t
 - matplotlib
 - pandas
 
+## How to Run
+```
+git clone https://github.com/AndreySerdyukov/DL-projects
+cd DL-projects
+python3 -m venv venv
+source venv/bin/activate  # macOS/Linux
+jupyter lab
+```
